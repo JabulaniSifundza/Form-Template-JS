@@ -41,8 +41,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // Open the modal with a confirmation message.
             // You can customize the title and message as needed.
             openModal(
-                'Submission Received',
-                `Thank you, ${name || 'friend'}. We have received your form.`
+                'Opening Modal',
+                `Opening this modal because JB said so!!`
             );
 
             // Optional: Reset the form fields after opening the modal.
